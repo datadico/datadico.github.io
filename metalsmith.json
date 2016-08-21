@@ -8,7 +8,7 @@
   "plugins": {
     "metalsmith-ignore": [
       "**/.DS_Store",
-      "unfinished/*", 
+      "unfinished/*",
       "javascripts/**.*"
     ],
     "metalsmith-metallic": true,
@@ -21,7 +21,7 @@
     },
     "metalsmith-sitemap":{
       "output": "sitemap.xml",
-      "hostname": "http://roadtolarissa.com"
+      "hostname": "http://datadico.github.io"
     }
   }
 }
