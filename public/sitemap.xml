@@ -25,13 +25,13 @@
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>http://datadico.github.io/javascripts/posts/curveDemo</loc>
+        <loc>http://datadico.github.io/javascripts/posts/convexHull</loc>
         <lastmod>2016-04-30</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>http://datadico.github.io/javascripts/posts/convexHull</loc>
+        <loc>http://datadico.github.io/javascripts/posts/curveDemo</loc>
         <lastmod>2016-04-30</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
@@ -55,12 +55,6 @@
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>http://datadico.github.io/javascripts/posts/es6-d3</loc>
-        <lastmod>2016-04-30</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
         <loc>http://datadico.github.io/javascripts/posts/fibonacci</loc>
         <lastmod>2016-04-30</lastmod>
         <changefreq>daily</changefreq>
@@ -79,13 +73,19 @@
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>http://datadico.github.io/javascripts/posts/gsw-streak</loc>
+        <loc>http://datadico.github.io/javascripts/posts/es6-d3</loc>
         <lastmod>2016-04-30</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>http://datadico.github.io/javascripts/posts/golf-wl</loc>
+        <lastmod>2016-04-30</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>http://datadico.github.io/javascripts/posts/gsw-streak</loc>
         <lastmod>2016-04-30</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
@@ -115,13 +115,13 @@
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>http://datadico.github.io/javascripts/posts/nba-minutes</loc>
+        <loc>http://datadico.github.io/javascripts/posts/nba-win-loss</loc>
         <lastmod>2016-04-30</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>http://datadico.github.io/javascripts/posts/nba-win-loss</loc>
+        <loc>http://datadico.github.io/javascripts/posts/nba-minutes</loc>
         <lastmod>2016-04-30</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
@@ -205,13 +205,13 @@
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>http://datadico.github.io/javascripts/posts/nba-minutes/readme</loc>
+        <loc>http://datadico.github.io/javascripts/posts/nba-win-loss/readme</loc>
         <lastmod>2016-04-30</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>http://datadico.github.io/javascripts/posts/nba-win-loss/readme</loc>
+        <loc>http://datadico.github.io/javascripts/posts/nba-minutes/readme</loc>
         <lastmod>2016-04-30</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
